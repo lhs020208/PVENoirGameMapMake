@@ -1,0 +1,86 @@
+# =========================
+# Unity generated folders
+# =========================
+/DXProjWorld/[Ll]ibrary/
+/DXProjWorld/[Tt]emp/
+/DXProjWorld/[Oo]bj/
+/DXProjWorld/[Bb]uild/
+/DXProjWorld/[Bb]uilds/
+/DXProjWorld/[Ll]ogs/
+/DXProjWorld/[Mm]emoryCaptures/
+/DXProjWorld/UserSettings/
+
+# =========================
+# Asset import pipeline
+# =========================
+/DXProjWorld/Assets/AssetStoreTools*
+
+# =========================
+# IDE / Editor
+# =========================
+.vs/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+*.sln.iml
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Unity crash reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Addressables / build caches
+# =========================
+/DXProjWorld/ServerData/
+/DXProjWorld/StreamingAssets/aa.meta
+/DXProjWorld/StreamingAssets/aa/
+
+# =========================
+# Test / coverage
+# =========================
+/DXProjWorld/CoverageResults/
+/DXProjWorld/TestResults/
+
+# =========================
+# Ignore generated debug symbols
+# =========================
+*.apk
+*.aab
+*.unitypackage
+
+# =========================
+# Generated addressable build data
+# =========================
+/DXProjWorld/Assets/AddressableAssetsData/*/*.bin*
+
+# =========================
+# Custom ignore
+# =========================
+/DXProjWorld/Assets/BoughtAsset/
