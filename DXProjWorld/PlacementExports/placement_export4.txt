@@ -1,0 +1,17 @@
+[PLACEMENT_EXPORT_BEGIN]
+owner="World (2)"
+position_format="world_xyz"
+rotation_format="quaternion_xyzw_world"
+count_section_format="ASSET_COUNT|asset=...|count=n"
+entry_section_format="ENTRY|asset=...|object=...|pos=(x,y,z)|rot=(x,y,z,w)"
+
+[ASSET_COUNTS_BEGIN]
+ASSET_COUNT|asset="Grass"|count=1
+asset_type_count=1
+[ASSET_COUNTS_END]
+
+[PLACEMENT_ENTRIES_BEGIN]
+ENTRY|asset="Grass"|object="Grass"|pos=(400,-0.01,0)|rot=(0,0,0,1)
+entry_count=1
+[PLACEMENT_ENTRIES_END]
+[PLACEMENT_EXPORT_END]
